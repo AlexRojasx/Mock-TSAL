@@ -2,6 +2,7 @@
 Will update soon with ideas and Schematics  🔥
 
 <h2>Design constraints:</h2>
+
 - must be controlled directly by the High Voltage, not programmed
 - must turn on red light when voltage exceeds 60v
 - must be able to handle much higher voltages as well
