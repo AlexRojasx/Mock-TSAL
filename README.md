@@ -10,6 +10,8 @@ Will update soon with ideas and Schematics  🔥
 - when lower than 60v, must be Solid Green
 - Must Be illuminated when GLV (grounded Low Voltage) is activated
 
+<h2>Current Ideas:</h2>
+- create a voltage divider that works from 60v-600v tha goes to a comparator to send a signal to the lights
 <h2>Project Description:</h2>
 
 
