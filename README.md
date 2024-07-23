@@ -11,6 +11,7 @@ Will update soon with ideas and Schematics  🔥
 - Must Be illuminated when GLV (grounded Low Voltage) is activated
 
 <h2>Current Ideas:</h2>
+
 - create a voltage divider that works from 60v-600v tha goes to a comparator to send a signal to the lights
 - after research into other TSAL circuits, alot of them use a voltage divider on the high voltage side to compare to a set referance on a Op amp Comparator or other comparator, whose signal is sent to a Octo coupler for high voltage and low voltage isolation.
 <h2>Project Description:</h2>
