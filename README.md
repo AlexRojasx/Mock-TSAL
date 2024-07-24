@@ -28,5 +28,8 @@ Will update soon with ideas and Schematics  🔥
 
 <h2>Screenshots:</h2>
 
+![image](https://github.com/user-attachments/assets/53b66dc4-b5dc-4191-a5d3-bac879c614e4)
+
+For the Voltage divider cicuit I used a circuit simulator to confirm that the voltage and current were correct for my applications. I decided to use 1M ohms and 55k ohms as those values will give me a voltage of just above 3v when HV=60v and when HV=600v, it will be clamped at 12 v as there is a 12v zener diode clamping it.
 
 <h2>What Could be Improved:</h2>
