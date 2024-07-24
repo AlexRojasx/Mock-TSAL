@@ -12,8 +12,8 @@ Will update soon with ideas and Schematics  🔥
 
 <h2>Current Ideas:</h2>
 
-- create a voltage divider that works from 60v-600v tha goes to a comparator to send a signal to the lights
-- after research into other TSAL circuits, alot of them use a voltage divider on the high voltage side to compare to a set referance on a Op amp Comparator or other comparator, whose signal is sent to a Octo coupler for high voltage and low voltage isolation.
+- create a voltage divider that works from 60v-600v tha goes to an Op amp comparator to send a signal to the lights
+- after research into other TSAL circuits, alot of them use a voltage divider on the high voltage side to compare to a set referance on a Op amp Comparator, whose signal is sent to a Octo coupler for high voltage and low voltage isolation.
 - for the referance voltage from the low side, i either need a isolated dc/dc converter or a second voltage divider on the high voltage side, though, in order to implement a second voltage divider I might need a dc/dc converter to drop the high voltage down. I will design the board initially with an isolated low voltage converter to supply the high voltage side comparator with a signal from the low voltage side.
 <h2>Project Description:</h2>
 
