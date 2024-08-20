@@ -1,5 +1,5 @@
 # Mock-TSAL
-Will update soon with ideas and Schematics  🔥
+Will update soon with ideas and Schematics (haven't been able to update due to covid and summer camp voulnteering, will update soon) 🔥
 
 <h2>Design constraints:</h2>
 
